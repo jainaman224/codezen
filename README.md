@@ -2,4 +2,4 @@
 Solution to codezen problems.
 
 # Maintainer
-Aman Jain
+Aman Jain (jainaman224)
